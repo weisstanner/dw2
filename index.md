@@ -7,13 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Abstract</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+Despite clear evidence of a sharp income gradient in voting participation, it remains unclear whether income truly causes voting. In this article, we investigate how exogenous increases in unearned income affect voting in U.S. elections for two generations (parents and children) from the same household. In contrast to predictions made by current models of voting, we find the income shock had no effect on parents’ voting behaviors. However, we also find that increasing household income has heterogeneous effects on the civic participation of children from different socioeconomic backgrounds. It increases children’s voting propensity among those raised in initially poorer families—resulting in substantially narrowed participatory gaps. Our results are consistent with a more nuanced view of how individual resources affect patterns of voting than the dominant theoretical framework of voting—the resource model—allows. Voting is fundamentally shaped by the human capital accrued long before citizens are eligible to vote.
 </details>
 
 
